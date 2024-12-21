@@ -1,2 +1,2 @@
-# Sistema federado de Saúde
+# Sistema Federado de Saúde
  Este é um front-end para se conectar a API. Foi desenviolvida pela IFPE e foi feita em BLOCKCHAIN.
